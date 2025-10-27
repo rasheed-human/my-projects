@@ -1,0 +1,55 @@
+Step 1:- Install Python
+
+》 Download Python:
+Go to the official Python website.
+Download the latest version of Python (make sure to choose the right version for your operating system)
+
+
+》 Run the Installer:
+Open the downloaded file to start the installation.
+Make sure to check the box that says "Add Python to PATH." This makes it easier to run Python from the command line.
+Click "Install Now" and follow the instructions to complete the installation.
+
+
+》 Verify Installation:
+Open Command Prompt (Windows) or Terminal (Mac/Linux). Type python --version or python3 --version and press Enter.
+You should see the Python version number if it’s installed correctly.
+
+Step 2: Install Visual Studio Code
+
+》 Download VS Code:
+Go to the official VS Code website.
+Download the version suitable for your operating system.
+
+
+》Run the Installer:
+Open the downloaded file and follow the instructions to install VS Code.
+ 
+Step 3: Set Up Python in VS Code
+
+》 Open VS Code:
+
+Launch Visual Studio Code.
+
+
+
+》 Install Python Extension:
+Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing Ctrl + Shift + X.
+In the search bar, type "Python" and look for the extension provided by Microsoft.
+
+Click "Install" to add the Python extension.
+
+
+
+》 Select Python Interpreter:
+After installing the Python extension, press Ctrl + Shift + P to open the Command Palette. Type "Python: Select Interpreter" and press Enter.
+Choose the version of Python you installed from the list.
+
+
+
+》 Create a New Python File:
+Create a new file by clicking on File > New File or pressing Ctrl + N. Save it with a .py extension (for example, my_script.py).
+
+
+》 Run Python Code:
+You can run your Python script by right-clicking in the editor and selecting "Run Python File in Terminal," or by using the shortcut Ctrl + Shift + P and selecting "Run Python File in Terminal."
